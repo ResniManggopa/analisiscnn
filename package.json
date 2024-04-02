@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chart.js": "^4.3.0",
+    "chartjs-chart-wordcloud": "^4.2.0"
+  }
+}

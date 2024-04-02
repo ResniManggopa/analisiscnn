@@ -1,0 +1,11 @@
+{
+    "name": "fchyo/analisiscnn",
+    "require": {
+        "sastrawi/sastrawi": "^1.2",
+        "php-ai/php-ml": "^0.9.0",
+        "rindow/rindow-neuralnetworks": "^1.4",
+        "rindow/rindow-math-plot": "^1.0",
+        "rubix/ml": "^2.4",
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}
